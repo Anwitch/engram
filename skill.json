@@ -1,0 +1,6 @@
+{
+  "name": "engram",
+  "version": "1.0.0",
+  "description": "Semantic search for local knowledge bases (like Obsidian vaults) using vector embeddings.",
+  "author": "anwitch"
+}
